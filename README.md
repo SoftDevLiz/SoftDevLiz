@@ -7,9 +7,7 @@
 
 - 👯 I’m looking to **start making my first contributions to open source projects on Github**
 
-- 👨‍💻 All of my projects are available on Github. I am currently building my personal website. Repos: [https://github.com/SoftDevLiz?tab=repositories](https://github.com/SoftDevLiz?tab=repositories)
-
-- 💬 Ask me about **anything you like :)**
+- 👨‍💻 All of my projects are available on Github
 
 - 📫 Reach me via email **liz.mouton1@gmail.com**
 
